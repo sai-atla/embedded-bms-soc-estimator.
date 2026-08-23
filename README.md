@@ -40,7 +40,7 @@ GND                 ├──[ I2C SSD1306 OLED (A4/A5) ]
 4. **Safety Watchdog:** Real-time comparator triggers a digital alert state when cell voltage drops below 3.30 V.
 
 ---
-
+![BMS Circuit & Waveform](waveform bms.png)
 ## Author
 **Sai Atla**  
 Electrical & Electronics Engineering  
