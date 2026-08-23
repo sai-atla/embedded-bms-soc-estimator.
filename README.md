@@ -1,6 +1,7 @@
 # embedded-bms-soc-estimator.
 # Real-Time Embedded BMS & Li-ion State-of-Charge (SoC) Estimator
 
+[![Wokwi Simulation](https://img.shields.io/badge/Wokwi-Live%20Simulation-brightgreen)](https://wokwi.com/projects/473171686381565953)
 An embedded battery management sub-system built for real-time cell voltage telemetry, digital noise filtering, and non-linear State-of-Charge (SoC) estimation for Lithium-ion chemistries.
 
 ---
